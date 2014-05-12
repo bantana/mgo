@@ -1,0 +1,42 @@
+BZR merge-modified list format 1
+file_id: saslimpl.go-20140312051026-9ejma86k9wj8cw5a-1
+hash: 596d1bc82bc27d8e7da4db5c68c5b94a91486455
+
+file_id: session.go-20101227173740-ixenc23565jpnbxw-10
+hash: b9a89a7e60757aa05a700cfafd567810862b2399
+
+file_id: gridfs_test.go-20110425041832-qceo4dppvtxoxjvd-2
+hash: fe10bfc43ec52725a0e15395bd5e426cea150ef9
+
+file_id: sasl.c-20140312051022-q3blf2kdqlm0v0l1-2
+hash: ecf861cc1d49d61e1884aa81d7f209a0d3013ddc
+
+file_id: auth.go-20110409165816-3xwqzacppqcn7p5l-1
+hash: 5eeb34426cc2ef769b9ff34f92f3e99b08fa8898
+
+file_id: gobson.go-20120121202541-k0gsuf6mago5b16v-4
+hash: aea15ca01ce0673d9e7d6eb6468190b5e3b884d7
+
+file_id: gridfs.go-20110425041832-qceo4dppvtxoxjvd-1
+hash: 12533b65ed21f1ecea7afddd63f7fad0e9e81df8
+
+file_id: doc.go-20110723203915-t3pzbx4eoo73mksi-1
+hash: 7ac1245ae439b2dbdfca5c7c331b0eb74f95d7fb
+
+file_id: cluster.go-20101227173740-ixenc23565jpnbxw-2
+hash: d326ccd17d5dcc5bd771de6af48d98356907b433
+
+file_id: auth_test.go-20110512060724-w384lf118aq155cd-1
+hash: 9a380dbf80632f88cb391978f7d68fe102df0902
+
+file_id: socket.go-20101227173740-ixenc23565jpnbxw-11
+hash: 03e43dbd39defc2a4be540fa22f8653402eb6e42
+
+file_id: session_test.go-20110512060724-w384lf118aq155cd-3
+hash: 59dffb6495ad1e0d72472aa1f1b3f65d03e0190b
+
+file_id: saslstub.go-20140312051026-9ejma86k9wj8cw5a-2
+hash: 7e2af3eb6d9ccc17dc676297e4da02e94898d37a
+
+file_id: sasl.go-20140312051022-q3blf2kdqlm0v0l1-3
+hash: 4095134fe729534d261f9015f4140a2ae39346b8
